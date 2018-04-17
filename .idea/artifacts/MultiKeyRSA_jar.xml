@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiKeyRSA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultiKeyRSA_jar</output-path>
+    <root id="archive" name="MultiKeyRSA.jar">
+      <element id="module-output" name="MultiKeyRSA" />
+    </root>
+  </artifact>
+</component>
