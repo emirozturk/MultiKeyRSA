@@ -1,0 +1,15 @@
+N = 31705684556450851
+Φ(N)= 29562475557888000
+e1= 239
+e2= 151
+e3= 227
+e4= 167
+E'= 7602681516154454
+E= 1837062713
+D= 68202471323728347184729864352777
+input= 786
+output= 1078
+decrypted= 786
+Anahtar Oluşturma Süresi: 7.570235 ms
+Encryption Süresi: 0.236677 ms
+Decryption Süresi: 0.703499 ms
