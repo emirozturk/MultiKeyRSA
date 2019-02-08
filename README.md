@@ -5,10 +5,12 @@
 -Also some generated intermediate values are printed to console.  
 -Keys are defined as BigInteger so big numbers could also be used (The actual development purpose was big numbers).  
 -To use jar file, use command below:  
+```java
     java -jar MultiKeyRSA.jar [filename] [input]  
-      *filename should contain 2^n prime numbers with each number per line. For example:  
-      101  
-      103  
-      107  
-      ...etc.  
-      *input should be a positive integer number  
+```
+ *filename should contain 2^n prime numbers with each number per line. For example:  
+  101  
+  103  
+  107  
+  ...etc.  
+  *input should be a positive integer number  
