@@ -8,9 +8,9 @@
 ```java
     java -jar MultiKeyRSA.jar [filename] [input]  
 ```
- *filename should contain 2^n prime numbers with each number per line. For example:  
+ * filename should contain 2^n prime numbers with each number per line. For example:  
   101  
   103  
   107  
   ...etc.  
-  *input should be a positive integer number  
+  * input should be a positive integer number  
